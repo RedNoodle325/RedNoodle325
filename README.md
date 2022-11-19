@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RedNoodle325
 - 👀 I’m interested in video games and tennis.
-- 🌱 I’m currently learning C++
+- 🌱 I'm currently attending Arizona State University for Software Engineering.
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me zak.klinedinst@outlook.com
 
