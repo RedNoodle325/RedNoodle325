@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @RedNoodle325
-- 👀 I’m interested in video games and tennis.
+- 👋 Hi, I’m Zak Klinedinst
+- 👀 I am into all sports and I love learning new things.
 - 🌱 I'm currently attending Arizona State University for Software Engineering.
-- 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me: rednoodle325@gmail.com
 
 <!---
