@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Zak Klinedinst
 - 👀 I am currently a project manager for Munters Global dealing with data center technologies.
-     I am on the path to learning how to be a software engineer / programmer.
-- 💻 I am currently learning Java, but I have dabbled in python, javascript, html/css, rust and c/c++
-- 🌱 I am currently transitioning to a Computer Science degree at WGU.
+- 💾 I am on the path to learning how to be a software engineer / programmer.
+- 💻 I am currently learning Java / Spring Boot.
+- 🌱 I am currently transitioning into a new role to be closer to family.
 - 📫 How to reach me: rednoodle325@gmail.com
 
 <!---
