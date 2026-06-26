@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Zak Klinedinst
 - 👀 I am currently a project manager for XNRGY Climate Solution.
 - 💾 I studied Computer Science
-- <img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/d2d4dadd66db9b3ff0cd9297e2c77f44c0e0808e/images/svg/javascript.svg alt='js logo' width='13'> I am currently learning TypeScript
+- <img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/d2d4dadd66db9b3ff0cd9297e2c77f44c0e0808e/images/svg/typescript.svg alt='TS logo' width='13'> I am currently learning TypeScript
 - 📫 How to reach me: rednoodle325@gmaill.com
 
 <!---
